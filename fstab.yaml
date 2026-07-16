@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/sai06-art/darkalleyeds/
+    url: https://content.da.live/sai06-art/eds-da/
     type: markup
